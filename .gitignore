@@ -11,3 +11,8 @@ vectors.pkl
 TMDB_all_movies.csv
 .DS_Store
 venv/
+movies_dict.pkl
+vectors.pkl
+TMDB_all_movies.csv
+.DS_Store
+venv/
